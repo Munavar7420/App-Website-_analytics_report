@@ -13,7 +13,8 @@ As an intern in the Business Analytics team, you analyze a provided dataset and 
 
     ![Screenshot 2023-08-02 162216](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/5cf0209d-bdf5-411b-86da-ff6b3926a7f4)
 
-   -> Cost 
+   -> Cost Invested
+   
    ![Screenshot 2023-08-02 162242](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/a9bfe439-1833-450d-a926-d214e6bb51cf)
 
 3. User by Interest report:
