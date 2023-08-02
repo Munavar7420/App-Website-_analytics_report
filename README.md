@@ -15,14 +15,15 @@ As an intern in the Business Analytics team, you analyze a provided dataset and 
    4. Then I used Boxplot to find outliers, and I removed them.
    5. I created various Visualizations, such as histograms, box plots, scatter plots, and line charts, help to uncover patterns and relationships between variables.
    6. I created a Correlation analysis that explores the relationships between numerical variables.
+   7. I created various Visualizations to present your Insights effectively. 
       
 ### User Installation & Engagement Performance Analysis:
 
-1. Google ADS Report:
+1. Google ADS Report: 
 
     ![Screenshot 2023-08-02 162216](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/5cf0209d-bdf5-411b-86da-ff6b3926a7f4)
 
-   -> Cost Invested
+   -> Cost Invested in Google ADS
    
    ![Screenshot 2023-08-02 162242](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/a9bfe439-1833-450d-a926-d214e6bb51cf)
 
@@ -57,5 +58,13 @@ As an intern in the Business Analytics team, you analyze a provided dataset and 
    -> Top 10 cities preferred by Users
 
    ![Screenshot 2023-08-02 163514](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/72286fd3-a573-4767-a93f-edd2edc7c47a)
+
+7. Demographic report:
+
+   ![Screenshot 2023-08-02 170433](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/3e136ab0-0e87-4db3-a0de-7b63b2604e75)
+
+   -> Top 10 countries that installed the Application:
+
+   ![Screenshot 2023-08-02 170502](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/d3fac30d-8144-47e0-b151-1609b422c56f)
 
 
