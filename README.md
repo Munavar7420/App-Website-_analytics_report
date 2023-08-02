@@ -1,4 +1,4 @@
-# App & Website Analytics Report
+![image](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/85cd5c53-65bf-4564-8b2c-9134ff95df13)# App & Website Analytics Report
 
 ### Objective: 
 Data Analysis and Insights for different page Optimization & How to get more user installation & Engagement from the App & Website.
@@ -79,7 +79,19 @@ As an intern in the Business Analytics team, you analyze a provided dataset and 
 
    ![Screenshot 2023-08-02 171349](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/fd63f2d0-a989-474c-86cf-955202b6f357)
 
+9. User Acquisition:
 
-   
+    ![Screenshot 2023-08-02 171710](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/47b7517d-9fb2-4600-8104-004093099d97)
 
-   
+   -> New User Acquisition
+
+   ![Screenshot 2023-08-02 171750](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/fd172a0b-8308-4347-b7ff-707980aff507)
+
+10. Traffic Aquisition:
+
+    ![Screenshot 2023-08-02 171938](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/ad303efb-1944-4fe3-a5c3-79f3eb187995)
+
+    -> Traffic Percentile
+
+    ![Screenshot 2023-08-02 171954](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/0bfa69a7-5c0e-46b4-9901-42cea1d4ea3c)
+
