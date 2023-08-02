@@ -25,7 +25,13 @@ As an intern in the Business Analytics team, you analyze a provided dataset and 
 
    ![Screenshot 2023-08-02 153241](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/291c8550-a1c0-448b-8252-1e2e96c776e6)
 
-4. 
-   
+3. User by Age Report:
+
+   ![Screenshot 2023-08-02 162620](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/2041ce14-9dcb-4f17-b692-42abc3c88d4f)
+
+   -> Age Wise Users and New Users
+
+   ![Screenshot 2023-08-02 162633](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/fbb51a26-5b12-4677-b933-f39c3841bf69)
+
 
    
