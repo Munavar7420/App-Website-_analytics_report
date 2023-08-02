@@ -33,5 +33,20 @@ As an intern in the Business Analytics team, you analyze a provided dataset and 
 
    ![Screenshot 2023-08-02 162633](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/fbb51a26-5b12-4677-b933-f39c3841bf69)
 
+4. User by Language:
 
-   
+   ![Screenshot 2023-08-02 163128](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/34d4bfbc-51a4-41b4-9447-f8675f48be16)
+
+   -> Top 10 language preferences by users and New users
+
+   ![Screenshot 2023-08-02 163150](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/fa43d4e1-9c07-47e6-8211-dd9b991bb4e5)
+
+5. Citiwise Report:
+
+   ![Screenshot 2023-08-02 163459](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/6c91b290-488b-4c3b-ae6e-23a6cc408171)
+
+   -> Top 10 cities preferred by Users
+
+   ![Screenshot 2023-08-02 163514](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/72286fd3-a573-4767-a93f-edd2edc7c47a)
+
+
