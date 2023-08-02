@@ -15,7 +15,7 @@ As an intern in the Business Analytics team, you analyze a provided dataset and 
    4. Then I used Boxplot to find outliers, and I removed them.
    5. I created various Visualizations, such as histograms, box plots, scatter plots, and line charts, help to uncover patterns and relationships between variables.
    6. I created a Correlation analysis that explores the relationships between numerical variables.
-   7. I created various Visualizations to present your Insights effectively. 
+   7. I created various Visualizations to present my Insights effectively. 
       
 ### User Installation & Engagement Performance Analysis:
 
