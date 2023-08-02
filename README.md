@@ -67,4 +67,19 @@ As an intern in the Business Analytics team, you analyze a provided dataset and 
 
    ![Screenshot 2023-08-02 170502](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/d3fac30d-8144-47e0-b151-1609b422c56f)
 
+8. Page and screens report:
 
+   ![Screenshot 2023-08-02 171255](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/2fa3d764-2340-46ec-8cf6-ef1a21ae761d)
+
+   ->Top 10 Pages and Screens according to the number of views
+
+   ![Screenshot 2023-08-02 171323](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/fa6abea6-f355-4fd2-b3c1-f14e033b3d49)
+
+   ->Below 10 pages and screens by number of views
+
+   ![Screenshot 2023-08-02 171349](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/fd63f2d0-a989-474c-86cf-955202b6f357)
+
+
+   
+
+   
