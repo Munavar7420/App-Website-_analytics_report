@@ -19,7 +19,7 @@ As an intern in the Business Analytics team, you analyze a provided dataset and 
       
 ### User Installation & Engagement Performance Analysis:
 
-1. Google ADS Report: 
+#### 1. Google ADS Report: 
 
     ![Screenshot 2023-08-02 162216](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/5cf0209d-bdf5-411b-86da-ff6b3926a7f4)
 
@@ -27,7 +27,9 @@ As an intern in the Business Analytics team, you analyze a provided dataset and 
    
    ![Screenshot 2023-08-02 162242](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/a9bfe439-1833-450d-a926-d214e6bb51cf)
 
-3. User by Interest report:
+   
+
+#### 2. User by Interest report:
     
    ![Screenshot 2023-08-02 153611](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/946e6d19-d2f8-4a74-924f-5208c73e1332)
 
@@ -35,7 +37,7 @@ As an intern in the Business Analytics team, you analyze a provided dataset and 
 
    ![Screenshot 2023-08-02 153241](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/291c8550-a1c0-448b-8252-1e2e96c776e6)
 
-3. User by Age Report:
+#### 3. User by Age Report:
 
    ![Screenshot 2023-08-02 162620](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/2041ce14-9dcb-4f17-b692-42abc3c88d4f)
 
@@ -43,7 +45,7 @@ As an intern in the Business Analytics team, you analyze a provided dataset and 
 
    ![Screenshot 2023-08-02 162633](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/fbb51a26-5b12-4677-b933-f39c3841bf69)
 
-4. User by Language:
+#### 4. User by Language:
 
    ![Screenshot 2023-08-02 163128](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/34d4bfbc-51a4-41b4-9447-f8675f48be16)
 
@@ -51,7 +53,7 @@ As an intern in the Business Analytics team, you analyze a provided dataset and 
 
    ![Screenshot 2023-08-02 163150](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/fa43d4e1-9c07-47e6-8211-dd9b991bb4e5)
 
-5. Citiwise Report:
+#### 5. Citiwise Report:
 
    ![Screenshot 2023-08-02 163459](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/6c91b290-488b-4c3b-ae6e-23a6cc408171)
 
@@ -59,7 +61,7 @@ As an intern in the Business Analytics team, you analyze a provided dataset and 
 
    ![Screenshot 2023-08-02 163514](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/72286fd3-a573-4767-a93f-edd2edc7c47a)
 
-7. Demographic report:
+#### 6. Demographic report:
 
    ![Screenshot 2023-08-02 170433](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/3e136ab0-0e87-4db3-a0de-7b63b2604e75)
 
@@ -67,7 +69,7 @@ As an intern in the Business Analytics team, you analyze a provided dataset and 
 
    ![Screenshot 2023-08-02 170502](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/d3fac30d-8144-47e0-b151-1609b422c56f)
 
-8. Page and screens report:
+#### 7. Page and screens report:
 
    ![Screenshot 2023-08-02 171255](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/2fa3d764-2340-46ec-8cf6-ef1a21ae761d)
 
@@ -79,7 +81,7 @@ As an intern in the Business Analytics team, you analyze a provided dataset and 
 
    ![Screenshot 2023-08-02 171349](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/fd63f2d0-a989-474c-86cf-955202b6f357)
 
-9. User Acquisition:
+#### 8. User Acquisition:
 
     ![Screenshot 2023-08-02 171710](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/47b7517d-9fb2-4600-8104-004093099d97)
 
@@ -87,7 +89,7 @@ As an intern in the Business Analytics team, you analyze a provided dataset and 
 
    ![Screenshot 2023-08-02 171750](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/fd172a0b-8308-4347-b7ff-707980aff507)
 
-10. Traffic Aquisition:
+#### 9. Traffic Aquisition:
 
     ![Screenshot 2023-08-02 171938](https://github.com/Munavar7420/App-Website-_analytics_report/assets/112122147/ad303efb-1944-4fe3-a5c3-79f3eb187995)
 
