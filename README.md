@@ -7,6 +7,15 @@ Data Analysis and Insights for different page Optimization & How to get more use
 
 As an intern in the Business Analytics team, you analyze a provided dataset and generate actionable insights to optimize page performance for a fictional company called "XYZ Inc." The dataset contains user data from various regions, customer demographics, product information, and marketing campaign details. Your objective is to identify critical factors influencing Data Analysis and Insights for different page Optimization & How to get more user installation & Engagement from the App & Website" User and propose recommendations for improving performance.
 
+### Data Description:
+   1. I have uploaded the Excel file on Jupyter for Analysis.
+   2. I explored the datasets to see if there were any null or duplicate values. After confirming, I removed nulls and duplicates.
+   3. By Exploring basic summary statistics, such as mean, median, standard deviation, minimum, and maximum values, It provides a basic understanding of the data distribution and 
+   potential outliers.
+   4. Then I used Boxplot to find outliers, and I removed them.
+   5. I created various Visualizations, such as histograms, box plots, scatter plots, and line charts, help to uncover patterns and relationships between variables.
+   6. I created a Correlation analysis that explores the relationships between numerical variables.
+      
 ### User Installation & Engagement Performance Analysis:
 
 1. Google ADS Report:
